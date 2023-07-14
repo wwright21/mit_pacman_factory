@@ -1,1 +1,1 @@
-# mit_pacman_factory
+# PacMan Factory
